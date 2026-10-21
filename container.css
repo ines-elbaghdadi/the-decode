@@ -1,0 +1,7 @@
+/* Le Wagon: reusable, responsive centered container */
+.container {
+  width: 1000px;
+  max-width: calc(100% - 40px);
+  margin-left: auto;
+  margin-right: auto;
+}

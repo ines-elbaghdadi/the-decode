@@ -1,0 +1,11 @@
+/* Le Wagon: reusable round profile-picture component */
+.avatar {
+  display: block;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 50%;
+  border: 3px solid #F0E8FF;
+  box-shadow: 0 6px 16px rgba(139, 92, 246, 0.16);
+}
